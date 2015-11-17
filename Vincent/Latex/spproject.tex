@@ -5,9 +5,11 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{subcaption}
 \usepackage{makeidx}
 \usepackage{graphicx}
 \usepackage{fourier}
+\usepackage{listings}
 \usepackage{color}
 \usepackage{hyperref}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
@@ -30,22 +32,17 @@ The phenomenons of space weather are mostly driven by the solar wind and its IMF
 
 It begins with magnetic reconnection at the magnetopause between the in the opposite direction pointing magnetic field lines of the IMF and the earth. Due to the magnetic tension force and the solar wind, the reconnected field lines get dragged into the tail of the earth. The adding of magnetic flux to the tail compresses the plasma sheet. Now magnetic reconnection occurs in the tail. The reconnected and now again closed field lines of the earth return to the dayside where the cycle can begin anew.
 
-
-
-
-
-
 \section{Instruments}
 
 \subsection{All-Sky Camera}
 
 In our project we are going to use the data of All-Sky cameras located in Svalbard at Ny Ålesund. These instruments are used to investigate the occurrence of auroras against time.
- Using a fish-eye lens, All-Sky cameras are able to take images of the whole sky. With an optical filter they can target the characteristic green and red light of the aurora. The cameras we are using have the filters at 5577 Å and 6300 Å. The cameras also include a photon counter to measure the brightness to the auroras. At \ref{a1} a typical diagram using an All-Sky Camera can be seen. While the colour gives the brightness, the x-axis gives the time and the y-axis gives the elevation. The diagram is made by taking the middle column of pixels in every photo the camera has taken and lining them up in the right time order.
+ Using a fish-eye lens, All-Sky cameras are able to take images of the whole sky. With an optical filter they can target the characteristic green and red light of the aurora. The cameras we are using have the filters at 5577 Å and 6300 Å. The cameras also include a photon counter to measure the brightness to the auroras. At \ref{a1} a typical keogram using an All-Sky Camera can be seen. While the colour gives the brightness, the x-axis gives the time and the y-axis gives the elevation. The diagram is made by taking the middle column of pixels in every photo the camera has taken and lining them up in the right time order.
 
 \begin{figure}[h]
-	\includegraphics[scale = 0.25]{am_0024_5577.png}
+	\includegraphics[scale = 0.20]{am-0024-5577.png}
 	\centering
-	\caption{Graphic of the All-Sky camera}
+	\caption{Keogram of the All-Sky camera}
 	\label{a1}
 \end{figure}
 
@@ -75,6 +72,102 @@ AMPERE stands for "Active Magnetosphere and Planetary Electrodynamics Response E
 \subsection{Ground-based magnetometers}
 
 In this project we are going to analyse the data on Ground-based magnetometers. Most of the magnetometers we are using are located in Norway, Sweden or Finland. A current always generates a magnetic field (Ampere's law). Hence by measuring the magnetic field on the ground, currents in the Ionosphere can be measured indirectly.
+
+\section{Observations}
+
+\subsection{All-Sky Camera}
+
+
+
+
+
+
+
+
+\begin{figure}[h]
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-0024-5577.png}
+		\caption{0-24 UT, 5577 Å}
+		\label{fig:sfig1}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-0024-6300.png}
+		\caption{0-24 UT, 6300 Å}
+		\label{fig:sfig2}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-1819-5577.png}
+		\caption{18-19 UT, 5577 Å}
+		\label{fig:sfig3}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-1819-6300.png}
+		\caption{18-19 UT, 6300 Å}
+		\label{fig:sfig4}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-2223-5577.png}
+		\caption{22-23 UT, 5577 Å}
+		\label{fig:sfig5}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-2223-6300.png}
+		\caption{22-23 UT, 6300 Å}
+		\label{fig:sfig6}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-2324-5577.png}
+		\caption{23-24 UT, 5577 Å}
+		\label{fig:sfig7}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{am-2324-6300.png}
+		\caption{23-24 UT, 6300 Å}
+		\label{fig:sfig8}
+	\end{subfigure}
+	\caption{Keograms of the All-sky camera for different times and wavelengths }
+	\label{fig:fig}
+\end{figure}
+
+
+
+\begin{figure}[h]
+	\begin{subfigure}[h]{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{ace-17-2310-b.png}
+		\caption{Magnetic field of the solar wind, 17:00-23:10 UT}
+		\label{ace1}
+	\end{subfigure}
+	\begin{subfigure}[h]{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{ace-2115-2130-b.png}
+		\caption{Magnetic field of the solar wind, 21:15-21:30 UT}
+		\label{ace2}
+	\end{subfigure}
+	\begin{subfigure}[h]{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{ace-17-2310-v-s.png}
+		\caption{Velocity of the solar wind and position of the satellite, 17:00-23:10 UT}
+		\label{ace3}
+	\end{subfigure}
+	\begin{subfigure}[h]{.5\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{ace-2115-2130-v-s.png}
+		\caption{Velocity of the solar wind and position of the satellite, 21:15-21:30 UT}
+		\label{ace4}
+	\end{subfigure}
+	\caption{Measurements of the ACE}
+	\label{ace}
+\end{figure}
+
 
 
 
