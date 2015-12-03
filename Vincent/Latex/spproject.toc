@@ -9,5 +9,9 @@
 \contentsline {section}{\numberline {3}Observations}{4}{section.3}
 \contentsline {subsection}{\numberline {3.1}All-Sky Camera}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}ACE}{5}{subsection.3.2}
-\contentsline {section}{\numberline {4}Discussion}{5}{section.4}
-\contentsline {section}{\numberline {5}Sources}{5}{section.5}
+\contentsline {subsection}{\numberline {3.3}AMPERE}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Ground-Based Magnetometers}{6}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}SuperDARN}{6}{subsection.3.5}
+\contentsline {section}{\numberline {4}Discussion}{7}{section.4}
+\contentsline {section}{\numberline {5}Sources}{8}{section.5}
+\contentsline {section}{\numberline {6}Graphics}{8}{section.6}

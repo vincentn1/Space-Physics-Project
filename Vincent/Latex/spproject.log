@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.1)  25 NOV 2015 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.1)  3 DEC 2015 22:08
 entering extended mode
 **spproject.tex
 (spproject.tex
@@ -1033,12 +1033,12 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 37.
 
-<am-0024-5577.png, id=76, 1606.0pt x 1003.75pt>
+<am-0024-5577.png, id=96, 1606.0pt x 1003.75pt>
 File: am-0024-5577.png Graphic file (type png)
  <use am-0024-5577.png>
 Package pdftex.def Info: am-0024-5577.png used on input line 43.
 (pdftex.def)             Requested size: 321.19432pt x 200.74644pt.
- [3 <./am-0024-5577.png>] <sd_1.png, id=85, 204.765pt x 119.7273pt>
+ [3 <./am-0024-5577.png>] <sd_1.png, id=105, 204.765pt x 119.7273pt>
 File: sd_1.png Graphic file (type png)
  <use sd_1.png>
 Package pdftex.def Info: sd_1.png used on input line 62.
@@ -1054,43 +1054,43 @@ File: am-0024-5577.png Graphic file (type png)
 <use am-0024-5577.png>
 Package pdftex.def Info: am-0024-5577.png used on input line 97.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-0024-6300.png, id=102, 1606.0pt x 1003.75pt>
+ <am-0024-6300.png, id=122, 1606.0pt x 1003.75pt>
 File: am-0024-6300.png Graphic file (type png)
 
 <use am-0024-6300.png>
 Package pdftex.def Info: am-0024-6300.png used on input line 103.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-1819-5577.png, id=103, 1606.0pt x 1003.75pt>
+ <am-1819-5577.png, id=123, 1606.0pt x 1003.75pt>
 File: am-1819-5577.png Graphic file (type png)
 
 <use am-1819-5577.png>
 Package pdftex.def Info: am-1819-5577.png used on input line 109.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-1819-6300.png, id=104, 1606.0pt x 1003.75pt>
+ <am-1819-6300.png, id=124, 1606.0pt x 1003.75pt>
 File: am-1819-6300.png Graphic file (type png)
 
 <use am-1819-6300.png>
 Package pdftex.def Info: am-1819-6300.png used on input line 115.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-2223-5577.png, id=105, 1606.0pt x 1003.75pt>
+ <am-2223-5577.png, id=125, 1606.0pt x 1003.75pt>
 File: am-2223-5577.png Graphic file (type png)
 
 <use am-2223-5577.png>
 Package pdftex.def Info: am-2223-5577.png used on input line 121.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-2223-6300.png, id=106, 1606.0pt x 1003.75pt>
+ <am-2223-6300.png, id=126, 1606.0pt x 1003.75pt>
 File: am-2223-6300.png Graphic file (type png)
 
 <use am-2223-6300.png>
 Package pdftex.def Info: am-2223-6300.png used on input line 127.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-2324-5577.png, id=107, 1606.0pt x 1003.75pt>
+ <am-2324-5577.png, id=127, 1606.0pt x 1003.75pt>
 File: am-2324-5577.png Graphic file (type png)
 
 <use am-2324-5577.png>
 Package pdftex.def Info: am-2324-5577.png used on input line 133.
 (pdftex.def)             Requested size: 193.47948pt x 120.91959pt.
- <am-2324-6300.png, id=108, 1606.0pt x 1003.75pt>
+ <am-2324-6300.png, id=128, 1606.0pt x 1003.75pt>
 File: am-2324-6300.png Graphic file (type png)
 
 <use am-2324-6300.png>
@@ -1119,13 +1119,13 @@ $[]$ $[]$
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<ame-2228-6300.jpg, id=109, 615.29875pt x 676.5275pt>
+<ame-2228-6300.jpg, id=129, 615.29875pt x 676.5275pt>
 File: ame-2228-6300.jpg Graphic file (type jpg)
  <use ame-2228-6300.jpg>
 Package pdftex.def Info: ame-2228-6300.jpg used on input line 149.
 (pdftex.def)             Requested size: 193.47948pt x 212.72533pt.
 
-<ame-2328-5577.jpg, id=110, 615.29875pt x 676.5275pt>
+<ame-2328-5577.jpg, id=130, 615.29875pt x 676.5275pt>
 File: ame-2328-5577.jpg Graphic file (type jpg)
  <use ame-2328-5577.jpg>
 Package pdftex.def Info: ame-2328-5577.jpg used on input line 155.
@@ -1135,13 +1135,13 @@ Overfull \hbox (1.56999pt too wide) in paragraph at lines 148--160
 []$[]$ $[]$ 
  []
 
-<ace-17-2310-b.png, id=113, 481.8pt x 700.11563pt>
+<ace-17-2310-b.png, id=133, 481.8pt x 700.11563pt>
 File: ace-17-2310-b.png Graphic file (type png)
  <use ace-17-2310-b.png>
 Package pdftex.def Info: ace-17-2310-b.png used on input line 180.
 (pdftex.def)             Requested size: 193.47948pt x 281.14163pt.
 
-<ace-17-2310-v-s.png, id=114, 481.8pt x 1001.24063pt>
+<ace-17-2310-v-s.png, id=134, 481.8pt x 1001.24063pt>
 File: ace-17-2310-v-s.png Graphic file (type png)
 
 <use ace-17-2310-v-s.png>
@@ -1155,33 +1155,254 @@ Overfull \hbox (1.56999pt too wide) in paragraph at lines 178--190
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 209.
+[5] <1294336800north.png, id=147, 642.4pt x 642.4pt>
+File: 1294336800north.png Graphic file (type png)
+ <use 1294336800north.png>
+Package pdftex.def Info: 1294336800north.png used on input line 231.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+<1294342200north.png, id=149, 642.4pt x 642.4pt>
+File: 1294342200north.png Graphic file (type png)
+ <use 1294342200north.png>
+Package pdftex.def Info: 1294342200north.png used on input line 237.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+<1294347000north.png, id=150, 642.4pt x 642.4pt>
+File: 1294347000north.png Graphic file (type png)
+ <use 1294347000north.png>
+Package pdftex.def Info: 1294347000north.png used on input line 243.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+<1294352400north.png, id=151, 642.4pt x 642.4pt>
+File: 1294352400north.png Graphic file (type png)
+ <use 1294352400north.png>
+Package pdftex.def Info: 1294352400north.png used on input line 249.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 229--253
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 229--253
+$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<1294353600north.png, id=152, 642.4pt x 642.4pt>
+File: 1294353600north.png Graphic file (type png)
+ <use 1294353600north.png>
+Package pdftex.def Info: 1294353600north.png used on input line 259.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+<1294356000north.png, id=153, 642.4pt x 642.4pt>
+File: 1294356000north.png Graphic file (type png)
+ <use 1294356000north.png>
+Package pdftex.def Info: 1294356000north.png used on input line 265.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 257--269
+[]$[]$ $[]$ 
+ []
+
+<1294357200north.png, id=154, 642.4pt x 642.4pt>
+File: 1294357200north.png Graphic file (type png)
+ <use 1294357200north.png>
+Package pdftex.def Info: 1294357200north.png used on input line 272.
+(pdftex.def)             Requested size: 193.47948pt x 193.47626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Z_gram.jpg, id=162, 132.495pt x 186.44656pt>
+File: Z_gram.jpg Graphic file (type jpg)
+ <use Z_gram.jpg>
+Package pdftex.def Info: Z_gram.jpg used on input line 299.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+<Z_gram1.jpg, id=163, 132.495pt x 186.44656pt>
+File: Z_gram1.jpg Graphic file (type jpg)
+ <use Z_gram1.jpg>
+Package pdftex.def Info: Z_gram1.jpg used on input line 305.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+<Z_gram2.jpg, id=164, 132.495pt x 186.44656pt>
+File: Z_gram2.jpg Graphic file (type jpg)
+ <use Z_gram2.jpg>
+Package pdftex.def Info: Z_gram2.jpg used on input line 311.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+<Z_gram3.jpg, id=165, 132.495pt x 186.44656pt>
+File: Z_gram3.jpg Graphic file (type jpg)
+ <use Z_gram3.jpg>
+Package pdftex.def Info: Z_gram3.jpg used on input line 317.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 297--321
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 297--321
+$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Z_gram4.jpg, id=166, 132.495pt x 186.44656pt>
+File: Z_gram4.jpg Graphic file (type jpg)
+ <use Z_gram4.jpg>
+Package pdftex.def Info: Z_gram4.jpg used on input line 327.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+<Z_gram5.jpg, id=167, 132.495pt x 186.44656pt>
+File: Z_gram5.jpg Graphic file (type jpg)
+ <use Z_gram5.jpg>
+Package pdftex.def Info: Z_gram5.jpg used on input line 333.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+<Z_gram6.jpg, id=168, 132.495pt x 186.44656pt>
+File: Z_gram6.jpg Graphic file (type jpg)
+ <use Z_gram6.jpg>
+Package pdftex.def Info: Z_gram6.jpg used on input line 339.
+(pdftex.def)             Requested size: 193.47948pt x 272.28366pt.
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 325--343
+[]$[]$ $[]$
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] <pot_1449158247.jpg, id=186, 192.72pt x 161.1621pt>
+File: pot_1449158247.jpg Graphic file (type jpg)
+
+<use pot_1449158247.jpg>
+Package pdftex.def Info: pot_1449158247.jpg used on input line 380.
+(pdftex.def)             Requested size: 193.47948pt x 161.79614pt.
+ <pot_1449158282.jpg, id=187, 192.72pt x 161.1621pt>
+File: pot_1449158282.jpg Graphic file (type jpg)
+
+<use pot_1449158282.jpg>
+Package pdftex.def Info: pot_1449158282.jpg used on input line 386.
+(pdftex.def)             Requested size: 193.47948pt x 161.79614pt.
+ <pot_1449158312.jpg, id=188, 192.72pt x 161.1621pt>
+File: pot_1449158312.jpg Graphic file (type jpg)
+
+<use pot_1449158312.jpg>
+Package pdftex.def Info: pot_1449158312.jpg used on input line 392.
+(pdftex.def)             Requested size: 193.47948pt x 161.79614pt.
+ <pot_1449158341.jpg, id=189, 192.72pt x 159.9576pt>
+File: pot_1449158341.jpg Graphic file (type jpg)
+
+<use pot_1449158341.jpg>
+Package pdftex.def Info: pot_1449158341.jpg used on input line 398.
+(pdftex.def)             Requested size: 193.47948pt x 160.5869pt.
+ <pot_1449158369.jpg, id=190, 192.72pt x 159.9576pt>
+File: pot_1449158369.jpg Graphic file (type jpg)
+
+<use pot_1449158369.jpg>
+Package pdftex.def Info: pot_1449158369.jpg used on input line 404.
+(pdftex.def)             Requested size: 193.47948pt x 160.5869pt.
+ <pot_1449166790.jpg, id=191, 192.72pt x 161.1621pt>
+File: pot_1449166790.jpg Graphic file (type jpg)
+
+<use pot_1449166790.jpg>
+Package pdftex.def Info: pot_1449166790.jpg used on input line 410.
+(pdftex.def)             Requested size: 193.47948pt x 161.79614pt.
+ <pot_1449173054.jpg, id=192, 192.72pt x 159.9576pt>
+File: pot_1449173054.jpg Graphic file (type jpg)
+
+<use pot_1449173054.jpg>
+Package pdftex.def Info: pot_1449173054.jpg used on input line 416.
+(pdftex.def)             Requested size: 193.47948pt x 160.5869pt.
+ <pot_1449167770.jpg, id=193, 192.72pt x 159.9576pt>
+File: pot_1449167770.jpg Graphic file (type jpg)
+
+<use pot_1449167770.jpg>
+Package pdftex.def Info: pot_1449167770.jpg used on input line 422.
+(pdftex.def)             Requested size: 193.47948pt x 160.5869pt.
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 378--426
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 378--426
+$[]$ $[]$
+ []
+
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 378--426
+$[]$ $[]$
+ []
+
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 378--426
+$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 7.73949pt on input line 428.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pot_1449168502.jpg, id=194, 192.72pt x 159.9576pt>
+File: pot_1449168502.jpg Graphic file (type jpg)
+ <use pot_1449168502.jpg>
+Package pdftex.def Info: pot_1449168502.jpg used on input line 433.
+(pdftex.def)             Requested size: 193.47948pt x 160.5869pt.
+
+<pot_1449173267.jpg, id=195, 192.72pt x 159.9576pt>
+File: pot_1449173267.jpg Graphic file (type jpg)
+ <use pot_1449173267.jpg>
+Package pdftex.def Info: pot_1449173267.jpg used on input line 439.
+(pdftex.def)             Requested size: 193.47948pt x 160.5869pt.
+
+Overfull \hbox (1.56999pt too wide) in paragraph at lines 431--443
+[]$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 466.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
- [6] [7 <./am-0024-6300.png> <./am-1819-5577.png> <./am-1819-6300.png> <./am-22
-23-5577.png> <./am-2223-6300.png> <./am-2324-5577.png> <./am-2324-6300.png>] [8
- <./ame-2228-6300.jpg> <./ame-2328-5577.jpg> <./ace-17-2310-b.png> <./ace-17-23
-10-v-s.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
-
-(spproject.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+) [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 491.
+ [8] [9 <./am-0024-6300.png> <./am-1819-5577.png> <./am-1819-6300.png> <./am-22
+23-5577.png> <./am-2223-6300.png> <./am-2324-5577.png> <./am-2324-6300.png>] [1
+0 <./ame-2228-6300.jpg> <./ame-2328-5577.jpg> <./ace-17-2310-b.png> <./ace-17-2
+310-v-s.png>]
+[11 <./1294336800north.png> <./1294342200north.png> <./1294347000north.png> <./
+1294352400north.png>] [12 <./1294353600north.png> <./1294356000north.png> <./12
+94357200north.png>] [13 <./Z_gram.jpg> <./Z_gram1.jpg> <./Z_gram2.jpg> <./Z_gra
+m3.jpg>] [14 <./Z_gram4.jpg> <./Z_gram5.jpg> <./Z_gram6.jpg>] [15 <./pot_144915
+8247.jpg> <./pot_1449158282.jpg> <./pot_1449158312.jpg> <./pot_1449158341.jpg> 
+<./pot_1449158369.jpg> <./pot_1449166790.jpg> <./pot_1449173054.jpg> <./pot_144
+9167770.jpg>] [16 <./pot_1449168502.jpg> <./pot_1449173267.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 491.
+ (spproject.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 491.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 491.
 Package rerunfilecheck Info: File `spproject.out' has not changed.
-(rerunfilecheck)             Checksum: F38FB78BE596BFB121782C98D65B4F2D;660.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
+(rerunfilecheck)             Checksum: 6E77B9DD0FE908C2BF23E57CA0390262;899.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 491.
  ) 
 Here is how much of TeX's memory you used:
- 10423 strings out of 493698
- 150530 string characters out of 3144407
- 245421 words of memory out of 3000000
- 13520 multiletter control sequences out of 15000+200000
+ 10619 strings out of 493698
+ 153636 string characters out of 3144407
+ 260323 words of memory out of 3000000
+ 13674 multiletter control sequences out of 15000+200000
  80109 words of font info for 105 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 42i,8n,40p,880b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,40p,880b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{C:/Pro
 gram Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/fourier/fourier-mlit.pfb><C:/Program Files/MiKTeX 2.9/fo
@@ -1189,9 +1410,9 @@ nts/type1/public/fourier/fourier-ms.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia
 /putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on spproject.pdf (8 pages, 2872815 bytes).
+Output written on spproject.pdf (16 pages, 8720085 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 314 words of extra memory for PDF output out of 10000 (max. 10000000)
 
